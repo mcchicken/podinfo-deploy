@@ -1,0 +1,1 @@
+{"jobID":"b5a2f2ba-8972-2807-8a2c-e08ecdd23dd4","spec":{"type":"policy","cause":{"Message":"","User":"Jeff Gibson \u003cgibson.jeff@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
